@@ -38,14 +38,14 @@ Lyrix Player is an Android music player focused on your local music library and 
         <b>Player</b>
       </td>
       <td align="center">
-        <img src="screenshots/lyrics.png" alt="Synchronized lyrics" width="230" />
-        <br />
-        <b>Lyrics</b>
-      </td>
-      <td align="center">
         <img src="screenshots/settings.png" alt="Lyrix Player settings" width="230" />
         <br />
         <b>Settings</b>
+      </td>
+      <td align="center">
+        <img src="screenshots/lyrics.png" alt="Synchronized lyrics" width="230" />
+        <br />
+        <b>Lyrics</b>
       </td>
     </tr>
   </table>
